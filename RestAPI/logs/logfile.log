@@ -1,0 +1,8 @@
+2020-12-28 10:15:13,540 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> id: username]is displayed 
+2020-12-28 10:15:13,944 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> id: password]is displayed 
+2020-12-28 10:15:14,283 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> id: tp-sign-in]is displayed 
+2020-12-28 10:15:31,965 INFO  [ConsoleLog] Thread ID = 1  -- Homepage logo is displayed 
+2020-12-28 10:15:32,194 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> xpath: //div[@class='links']/a[contains(text(),'Integrations')]]is displayed 
+2020-12-28 10:15:37,783 INFO  [ConsoleLog] Thread ID = 1  -- Integrationpage is displayed 
+2020-12-28 10:15:38,152 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> xpath: //div[contains(text(),'Display token')]]is displayed 
+2020-12-28 10:15:43,494 INFO  [ConsoleLog] Thread ID = 1  -- [[EdgeDriver: msedge on WINDOWS (15a5a1becd5d6e0ced8536000dce8076)] -> xpath: //div[@class='links']/a[contains(text(),'Project')]]is displayed 
